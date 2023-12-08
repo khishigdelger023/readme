@@ -25,7 +25,8 @@
 
 <p align="left">I'm Khishigdelger.<br><br>- 🔭 I’m working as frontend developer<br>- 📚 I'm currently learning dart</p>
 
-![Snake animation](https://github.com/khishigdelger023/khishigdelger023/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/khishigdelger023/khishigdelger023/blob/output/github-contribution-grid-snake.svg) -->
+
 
 ###
 <h3 align="left">💻 Tech Stack:</h3>
