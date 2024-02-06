@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Khishigdelger.<br><br>- 🔭 I’m working as frontend developer<br>- 📚 I'm currently learning dart</p>
+<p align="left">I'm Khishigdelger.<br><br>- 🔭 I’m working as frontend developer<br>- 📚 I'm currently learning Flutter</p>
 
 <!-- ![Snake animation](https://github.com/khishigdelger023/khishigdelger023/blob/output/github-contribution-grid-snake.svg) -->
 
